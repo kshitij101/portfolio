@@ -8,7 +8,7 @@ const ExperienceData = [
     description: [
       "At Blazeclan Technologies, I developed and maintained full-stack applications for HealthRFID, optimizing cloud infrastructure on AWS and enhancing database efficiency. I also led the implementation of BI dashboards and ETL pipelines, improving data accessibility and decision-making for healthcare clients."
     ],
-    skills: ["./AWSDA.png"],
+    skills: ["./aws.webp","./python.png","vue.png","javascript.png","express.png"],
   },
   {
     title: "Research Intern",
@@ -17,7 +17,7 @@ const ExperienceData = [
     description: [
       "At the Commonwealth Cyber Initiative (CCI), I assist the CCIxG Testbed team in researching O-RAN systems and deploying OpenStack to virtualize the testbed, improving remote user access and resource efficiency. I also developed a CI/CD pipeline using GitLab, reducing testbed modification time while streamlining backend architecture changes with Kubernetes and Docker."
     ],
-    skills: ["./AWSDA.png"],
+    skills: ["./ansible.png","docker.webp","gitlab.svg","prometheus.png","openstack.png","nvidia.png","kubernetes.png","linux.png"],
   },
 ];
 

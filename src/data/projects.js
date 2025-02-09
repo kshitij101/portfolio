@@ -5,11 +5,11 @@ import { SiThemoviedatabase, SiExpress } from "react-icons/si";
 const ProjectsData = [
   {
     id: "1",
-    name: "Movie Website",
+    name: "Natural Language to SQL query conversion",
     image: "./IMDB.png",
     icons: [BiLogoReact, BiLogoCss3, SiThemoviedatabase],
-    description: "This website provides information about popular , top-rated and upcoming movies.",
-    github: "https://github.com/VijayKumarReddyTalakola/IMDB",
+    description: "Converts english question to SQL queries using a combination of neural networks",
+    github: "https://github.com/kshitij101/Natural-Language-to-SQL-query-conversion",
     demo: "https://imdb-rho.vercel.app",
   },
   {
