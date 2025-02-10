@@ -71,6 +71,57 @@ const SkillsData = [
     name: "GitHub",
     image: require("../assets/Images/github.png"),
   },
+  {
+    name: "Flask",
+    image: require("../assets/Images/flask.png"),
+  },
+  {
+    name: "Django",
+    image: require("../assets/Images/django.png"),
+  },
+  {
+    name: "Tensorflow",
+    image: require("../assets/Images/tensorflow.png"),
+  },
+  {
+    name: "PyTorch",
+    image: require("../assets/Images/pytorch.png"),
+  },
+  {
+    name: "Vue",
+    image: require("../assets/Images/vue.png"),
+  },
+  {
+    name: "Bootstrap",
+    image: require("../assets/Images/bootstrap.jpeg"),
+  },
+  {
+    name: "Ansible",
+    image: require("../assets/Images/ansible.png"),
+  },
+  {
+    name: "AWS",
+    image: require("../assets/Images/aws.webp"),
+  },
+  {
+    name: "Kubernetes",
+    image: require("../assets/Images/kubernetes.png"),
+  },
+  {
+    name: "Docker",
+    image: require("../assets/Images/docker.webp"),
+  },
+  {
+    name: "PySpark",
+    image: require("../assets/Images/spark.png"),
+  },
+  {
+    name: "linux",
+    image: require("../assets/Images/linux.png"),
+  },
+  {
+
+  }
 ];
 
 export default SkillsData;

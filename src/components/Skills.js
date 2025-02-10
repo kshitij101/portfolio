@@ -2,9 +2,9 @@ import React, { useState } from "react";
 import SkillsData from "../data/skills";
 
 const categorizedSkills = {
-  Backend: ["Node", "Express", "MongoDB", "MySQL", "Prisma", "Firebase"],
-  Frontend: ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Redux", "Next", "Tailwind"],
-  Systems: ["Postman", "VS Code", "Git", "GitHub"]
+  Backend: ["Node", "Express", "MongoDB", "MySQL", "Flask", "Django", "Tensorflow", "PyTorch"],
+  Frontend: ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Redux", "Next", "Tailwind", "Vue", "Bootstrap"],
+  Systems: ["Postman", "VS Code", "Git", "Ansible", "Openstack", "AWS", "Kubernetes", "Docker", "PySpark", "Linux"]
 };
 
 const Skills = () => {

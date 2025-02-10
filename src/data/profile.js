@@ -8,7 +8,7 @@ const ProfileData = {
     "Master's in CS @ Virginia Tech"
   ],
   resume:
-    "",
+    "./resume.pdf",
 };
 
 export default ProfileData;

@@ -7,25 +7,17 @@ const ContactData = {
   address: "Falls Church, VA",
   links: [
     {
-      url: "https://github.com/VijayKumarReddyTalakola",
+      url: "https://github.com/kshitij101",
       icon: FaGithub,
     },
     {
-      url: "https://www.linkedin.com/in/vijay-talakola",
+      url: "https://www.linkedin.com/in/kshitij-narvekar/",
       icon: FaLinkedin,
     },
     {
-      url: "https://discordapp.com/users/talakolavijay",
+      url: "https://discordapp.com/users/5pellcast3r",
       icon: FaDiscord,
-    },
-    {
-      url: "https://www.instagram.com/vijay_talakola",
-      icon: FaInstagram,
-    },
-    {
-      url: "https://twitter.com/talakolavijay",
-      icon: FaXTwitter,
-    },
+    }
   ],
 };
 
