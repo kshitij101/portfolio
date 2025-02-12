@@ -7,8 +7,7 @@ const ProfileData = {
     "Building scalable full-stack applications, optimizing cloud infrastructure, and crafting AI-driven solutions.",
     "Master's in CS @ Virginia Tech"
   ],
-  resume:
-    "./resume.pdf",
+  resume: "https://kshitij101.github.io/portfolio" + "/Resume.pdf",
 };
 
 export default ProfileData;
